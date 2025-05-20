@@ -1,0 +1,42 @@
+# Target SQL Project
+
+## 📌 Overview
+
+This project simulates the role of a data analyst at **Target**, one of the largest retail corporations. The objective is to perform comprehensive SQL-based analysis on e-commerce data from Brazil to uncover insights and deliver strategic recommendations.
+
+## 📁 Contents
+
+The core of the project is documented in the `Target SQL Queries.pdf` file, which includes:
+
+- Exploratory Data Analysis (EDA)
+- Time-series trend identification
+- Geographic and demographic breakdowns
+- Economic insights based on prices, freight, and payments
+- Delivery and logistics performance metrics
+- Actionable business recommendations
+
+## 🛠 Technologies Used
+
+- **Google BigQuery** for querying large datasets
+- **SQL** for data manipulation and analysis
+
+## 🧠 Key Insights
+
+- Significant growth in orders from 2016 to 2018
+- Seasonal spikes observed in **August, May, and July**
+- Most orders placed in the **Afternoon**
+- **São Paulo (SP), Rio de Janeiro (RJ), and Minas Gerais (MG)** are leading states in terms of customer base and order volume
+- Notable increase (~137%) in order value from Jan–Aug 2017 to Jan–Aug 2018
+- Majority of payments made in a **single installment**, with **Credit Card** being the preferred method
+
+## 📊 Business Recommendations
+
+- Increase marketing efforts during seasonal peaks
+- Optimize the shopping experience in the afternoon
+- Focus on customer retention strategies in top-performing states
+- Explore freight optimization in high-cost delivery states (RR, PB, RO)
+- Streamline checkout for one-time payments
+
+## 📄 File
+
+- `Target SQL Queries.pdf` – Contains all the SQL queries, outputs, insights, and recommendations
